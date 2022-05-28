@@ -1,0 +1,26 @@
+{
+  "name": "nano-neurons",
+  "version": "1.0.0",
+  "description": "NanoNeuron is an over-simplified version of the Neuron concept from Neural Networks. NanoNeuron is trained to convert temperature values from Celsius to Fahrenheit.",
+  "main": "nanoNeuron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosepov/Nano-Neurons-with-Javascript.git"
+  },
+  "keywords": [
+    "machine-learning",
+    "nano",
+    "neurons",
+    "javascript",
+    "ai"
+  ],
+  "author": "Erez Yosepov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosepov/Nano-Neurons-with-Javascript/issues"
+  },
+  "homepage": "https://github.com/yosepov/Nano-Neurons-with-Javascript#readme"
+}
